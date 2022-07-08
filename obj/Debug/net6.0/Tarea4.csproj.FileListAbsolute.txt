@@ -1,0 +1,17 @@
+/home/lisbethjimenez/fp-tareas/Tarea4/bin/Debug/net6.0/Tarea4
+/home/lisbethjimenez/fp-tareas/Tarea4/bin/Debug/net6.0/Tarea4.deps.json
+/home/lisbethjimenez/fp-tareas/Tarea4/bin/Debug/net6.0/Tarea4.runtimeconfig.json
+/home/lisbethjimenez/fp-tareas/Tarea4/bin/Debug/net6.0/Tarea4.dll
+/home/lisbethjimenez/fp-tareas/Tarea4/bin/Debug/net6.0/Tarea4.pdb
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/Tarea4.csproj.AssemblyReference.cache
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/Tarea4.GeneratedMSBuildEditorConfig.editorconfig
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/Tarea4.AssemblyInfoInputs.cache
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/Tarea4.AssemblyInfo.cs
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/Tarea4.csproj.CoreCompileInputs.cache
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/Tarea4.dll
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/refint/Tarea4.dll
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/Tarea4.pdb
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/Tarea4.genruntimeconfig.cache
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/ref/Tarea4.dll
+/home/lisbethjimenez/fp-tareas/Tarea4/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/lisbethjimenez/fp-tareas/Tarea4/obj/Debug/net6.0/Tarea4.csproj.CopyComplete

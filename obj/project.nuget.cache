@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3BPFq+0KJlsuqxlVzYs4l5/Ls4q2fufjezLOcmib07UqELNuzBnb3Zd4V+hVj/lCVXOOabMA/99XM0gHj5zIg==",
+  "success": true,
+  "projectFilePath": "/home/lisbethjimenez/fp-tareas/Tarea4/Tarea4.csproj",
+  "expectedPackageFiles": [
+    "/home/lisbethjimenez/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
